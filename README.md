@@ -1,7 +1,7 @@
 # Tutorial-upload-folder-into-github
+
 Step by step to upload folder into github
-
-
+---------------------------------------------------
 
 1.Download and install git https://git-scm.com/downloads
 2.Open git bash
